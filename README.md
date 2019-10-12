@@ -1,15 +1,10 @@
-# ELK-Stack
+# ELK-Stack Setup
 
+<b>Blog https://www.perfblogspot.com/
 
-…or create a new repository on the command line
-echo "# ELK-Stack" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/karthiksurabathula/ELK-Stack.git
-git push -u origin master
+This Repository consist of the configurations related to different posts.
 
+<b>Posts: 
 
-…or push an existing repository from the command line
-git remote add origin https://github.com/karthiksurabathula/ELK-Stack.git
-git push -u origin master
+1. Elasticsearch High Availability Production Cluster Setup: https://www.perfblogspot.com/2019/10/elk-stack-1.html
+2. Encrypting communications in Elasticsearch: https://www.perfblogspot.com/2019/10/encrypting-communications-in.html
